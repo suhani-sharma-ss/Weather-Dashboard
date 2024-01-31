@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../weather dashboard"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "WEATHER",
+		"liveServer.settings.port": 5501
+	}
+}
